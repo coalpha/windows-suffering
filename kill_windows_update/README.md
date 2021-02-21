@@ -1,0 +1,2 @@
+- source: [https://www.reddit.com/r/sysadmin/...](https://www.reddit.com/r/sysadmin/comments/aavocr/after_6_months_of_testing_this_in_my_company_i/)
+- companion script: [@WhAtEvErYoUmEaN/CheckInstalledWindowsUpdates](https://github.com/WhAtEvErYoUmEaN/CheckInstalledWindowsUpdates)

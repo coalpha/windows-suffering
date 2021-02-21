@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+; win32.registry.shell.hijackdirectory
+[HKEY_CLASSES_ROOT\Directory\shell\Malware\command]
+@="cmd /c start https://en.wikipedia.org/wiki/Malware"

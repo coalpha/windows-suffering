@@ -1,0 +1,2 @@
+- author: Shawn Brink
+- source: [tenforums](http://www.tenforums.com/tutorials/2933-pin-quick-access-context-menu-remove-windows-10-a.html)
