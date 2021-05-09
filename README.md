@@ -1,3 +1,5 @@
-# windows-reg-suffering
+# windows-suffering
 
-These are registry scripts that can be useful.
+![](misc/icon.png)
+
+*Windows related pain canister.*
